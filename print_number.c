@@ -28,7 +28,7 @@ int print_number(unsigned int r, int s)
 	while (n > 0)
 	{
 		modulus = n % 10;
-		number[m] = mod + 48;
+		number[m] = modulus + 48;
 		n = n / 10;
 		m++;
 	}
