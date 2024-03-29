@@ -2,7 +2,6 @@
 #include <stdarg.h>
 #include <stddef.h>
 #include <unistd.h>
-
 /**
  * _printf - print something
  * @format: type specifier
