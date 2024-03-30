@@ -35,7 +35,7 @@ echo ".\" Man Page for _printf()
     No errors are defined yet.
 
 .SH See Also
-    printf() -> function in c programming (not user defined)
+    printf() -> function in C programming (not user defined)
 
 .SH Notes
     The _printf() function is a non-standard function and its use is discouraged in favor of printf(3) unless
