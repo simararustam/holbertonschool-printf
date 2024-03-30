@@ -3,7 +3,7 @@
 /**
  * print_number - print number
  * @r: length of numbers
- * @s: number
+ * @s: number to be printed
  * Return: length of str
  */
 int print_number(unsigned int r, int s)
