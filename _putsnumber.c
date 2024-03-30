@@ -4,7 +4,7 @@
 /**
  * _putsnumber - print string
  * @str: string
- * Return: void
+ * Return: Void
  */
 int _putsnumber(char *str)
 {
