@@ -6,7 +6,7 @@
 /**
  *_itoa - change integer to string
  *@num: given integer
- *Return: size of returned integer
+ *Return: Size of returned integer
  */
 int _itoa(int num)
 {
