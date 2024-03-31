@@ -7,7 +7,6 @@ This C program implements a simplified version of the `printf` function. The `pr
 
 - `main.h`: Header file containing function prototypes and necessary library includes.
 - `printf.c`: Source file containing the implementation of the `_printf` function.
-- `main.c`: Example usage of the `_printf` function.
 
 ## Compilation
 
